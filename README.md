@@ -29,9 +29,9 @@ This project contributes to the fields of computer vision, photography, and imag
 ## 📸 Screenshots
 
 ### 📌 Project Workflow Overview
-![Overview](./Screenshots/Overview.png)
+![Overview](./Screenshots/Overview.jpeg)
 
 ### ✅ Output Images After Dehazing
-![Step-wise Output](./Screenshots/Output.png)
+![Step-wise Output](./Screenshots/Output.jpeg)
 
 ---
